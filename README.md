@@ -1,1 +1,1 @@
-# PCA-L1AR
+# l1-norm based PCA with adaptive regularization
